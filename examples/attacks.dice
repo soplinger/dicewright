@@ -1,0 +1,6 @@
+# Fighter attack rolls
+longsword: 1d20+5
+greatsword: 2d6+3
+sneak: 1d6!
+advantage: 2d20kh1+5
+stat: 4d6kh3
